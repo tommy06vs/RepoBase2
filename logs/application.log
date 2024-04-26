@@ -1,0 +1,24 @@
+2024-04-25 17:02:53 ERROR (ConsultaDao.java:123) Error al registrar el nuevo estudiante: ERROR: la columna «dtnacimiento» es de tipo date pero la expresión es de tipo character varying
+  Hint: Necesitará reescribir la expresión o aplicarle una conversión de tipo.
+  Position: 135
+2024-04-25 17:03:47 ERROR (ConsultaDao.java:123) Error al registrar el nuevo estudiante: ERROR: la columna «dtnacimiento» es de tipo date pero la expresión es de tipo character varying
+  Hint: Necesitará reescribir la expresión o aplicarle una conversión de tipo.
+  Position: 135
+2024-04-25 17:05:31 ERROR (ConsultaDao.java:123) Error al registrar el nuevo estudiante: ERROR: la columna «dtnacimiento» es de tipo date pero la expresión es de tipo character varying
+  Hint: Necesitará reescribir la expresión o aplicarle una conversión de tipo.
+  Position: 135
+2024-04-25 17:15:38 ERROR (ConsultaDao.java:172) Error al registrar el nuevo estudiante: ERROR: llave duplicada viola restricción de unicidad «estudiantes_pkey»
+  Detail: Ya existe la llave (codigo_id)=(000003).
+2024-04-25 22:08:20 ERROR (ConsultaDao.java:172) Error al registrar el nuevo estudiante: ERROR: llave duplicada viola restricción de unicidad «estudiantes_pkey»
+  Detail: Ya existe la llave (codigo_id)=(000001).
+2024-04-25 22:34:04 ERROR (ConsultaDao.java:172) [31mError al registrar el nuevo estudiante: [0mERROR: llave duplicada viola restricción de unicidad «estudiantes_pkey»
+  Detail: Ya existe la llave (codigo_id)=(000003).
+2024-04-25 23:54:10 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:54:28 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:54:31 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:54:50 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:56:19 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:56:24 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:56:30 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:56:33 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
+2024-04-25 23:56:42 ERROR (ConsultaDao.java:260) [31mError al obtener las materias del estudiante: [0mThe column name sapmaterno was not found in this ResultSet.
